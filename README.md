@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonyapindi
 - 👀 I’m interested in data analytics and project 
 - 🌱 I’m currently learning python actively 
-- 💞️ I’m looking to collaborate on data analysis with python/machine learning projects
+- 💞️ I’m looking to collaborate on data analysis with R/python/machine learning projects
 - 📫 How to reach me: tonyapindi11@gmail
 
 <!---
